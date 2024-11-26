@@ -5,9 +5,10 @@
    
    * Private Cloud : A single business or organization uses the cloud computing resources exclusively.
    
-   * Hybrid Cloud : A combination of public and private clouds, where data and applications can be shared between them. 
+   * Hybrid Cloud : A combination of public and private clouds, where data and applications can be shared between them.
 
    ##  Cloud Computing Models :
+   
 
  * IAAS (Infrastructure As A Service):  
 
@@ -19,27 +20,28 @@
         * Google Compute Engine (GCE) 
         * Digital Ocean 
         * Microsoft Azure 
-   * PAAS (Platform As A Service) :
+* PAAS (Platform As A Service) :
 
      Provides access to a cloud-hosted platform for developing, running, maintaining, and managing applications. Customers are responsible for writing code and managing data and applications.
 
-        -  PAAS is high expensive than IAAS 
+    -  PAAS is high expensive than IAAS
+    - Eg : RDS 
 
-   * SAAS (Software As A Service)
+* SAAS (Software As A Service) :
+        
+    Provides access to ready-to-use, cloud-hosted application software. SaaS products are entirely managed by the vendor.
 
+    - Examples of SaaS include email, calendaring, and office tools. 
+    ![preview](images/images.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Cloud Computing Tools :
+There are many tools using in the IT market on those the following are some popular tools :
+   
+ - Amazon Web Services (AWS)
+- Microsoft Azure
+ - Google Cloud Platform (GCP)
+- Oracle Cloud
+- IBM Cloud
 
 
 ## AWS (Amazon Web Services) :
