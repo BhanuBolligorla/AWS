@@ -1,4 +1,4 @@
-## What is CLoud Computing ?
+## What is Cloud Computing ?
   Cloud Computing is the delivery of computing services , including servers , storage , database , networking , software over the internet (Cloud) is called Cloud Computing .
    ## Types of Cloud Computing :
    * Public Cloud : A third-party cloud service provider owns and operates the cloud, which provides computing resources like storage and servers over the internet.
@@ -32,8 +32,8 @@
     Provides access to ready-to-use, cloud-hosted application software. SaaS products are entirely managed by the vendor.
 
     - Examples of SaaS include email, calendaring, and office tools. 
-    
-    ![preview](images/images.png)
+
+     ![preview](images/images.png)
 
 ## Cloud Computing Tools :
 There are many tools using in the IT market on those the following are some popular tools :
