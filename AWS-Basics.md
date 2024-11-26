@@ -32,6 +32,7 @@
     Provides access to ready-to-use, cloud-hosted application software. SaaS products are entirely managed by the vendor.
 
     - Examples of SaaS include email, calendaring, and office tools. 
+    
     ![preview](images/images.png)
 
 ## Cloud Computing Tools :
