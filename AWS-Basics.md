@@ -1,11 +1,11 @@
 ## `What is Cloud Computing ?`
   Cloud Computing is the delivery of computing services , including servers , storage , database , networking , software over the internet (Cloud) is called Cloud Computing .
    ## `Types of Cloud Computing :`
-   * Public Cloud : A third-party cloud service provider owns and operates the cloud, which provides computing resources like storage and servers over the internet.
+   * `Public Cloud :` A third-party cloud service provider owns and operates the cloud, which provides computing resources like storage and servers over the internet.
    
-   * Private Cloud : A single business or organization uses the cloud computing resources exclusively.
+   * `Private Cloud :` A single business or organization uses the cloud computing resources exclusively.
    
-   * Hybrid Cloud : A combination of public and private clouds, where data and applications can be shared between them.
+   * `Hybrid Cloud :` A combination of public and private clouds, where data and applications can be shared between them.
 
    ##  `Cloud Computing Models :`
    
@@ -78,7 +78,7 @@ There are many tools using in the IT market on those the following are some popu
  A data center is a physical location that stores computing machines and their related hardware equipment.
 
 
-edge
+
 
 
 
